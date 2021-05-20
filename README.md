@@ -19,11 +19,6 @@ This library is a product of reverse engineering and highly untested. Please cre
 - [x] Coupons
 - [x] Milestones
 
-## Installation
-
-```
-pip install git+git://github.com/Merlintor/nindo.de
-```
 
 ## Usage
 
